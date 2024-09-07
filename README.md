@@ -23,16 +23,30 @@ Description: The project is a Java implementation of the classic Battleship game
 </a>
 
 # Features
-### Starting a new game
+### Rules
+The board will be randomly populated with the following hidden ship:<br>
 
+1 Battleship (Length 4)<br>
+2 Cruisers (Length 3)<br>
+3 Destroyers (Length 2)<br>
+4 Submarines (Length 1)<br>
+
+The player will then select a box to hit by entering a row and column input.<br>
+
+### Starting a new game
+![Screenshot 2024-09-06 at 6 46 18 PM](https://github.com/user-attachments/assets/a735b604-17ea-4982-addd-0b3a07c0b927)
 
 ### Choosing a row and column
+![Screenshot 2024-09-06 at 6 47 34 PM](https://github.com/user-attachments/assets/947b8752-bf76-446c-87aa-5125b1a12c59)
 
+### Hitting a ship
+![Screenshot 2024-09-06 at 6 47 47 PM](https://github.com/user-attachments/assets/cd29ff54-e0e2-4d48-9039-15b24cf2f6c1)
 
-### Hitting/Sinking a ship
+### Sinking a ship (sunk ship was of type 'battleship', length = 4 spaces)
+![Screenshot 2024-09-06 at 6 54 11 PM](https://github.com/user-attachments/assets/f0c9f696-53b1-45a5-b778-3262391af69a)
 
-
-### Winning the game
+### Winning the game (all ships were sunk)
+![Screenshot 2024-09-06 at 7 08 01 PM](https://github.com/user-attachments/assets/05eac01d-cfd5-4281-a3d4-88957d59f5b0)
 
 
 # Contact
