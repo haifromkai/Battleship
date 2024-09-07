@@ -52,6 +52,6 @@ The player will then select a box to hit by entering a row and column input.<br>
 # Contact
 Feel free to leave suggestions or ask questions about any part of the project! <br>
 Kai Fang - (haifromkai.tech@gmail.com) <br>
-Project Link: https://github.com/haifromkai/to-do-app
+Project Link: https://github.com/haifromkai/Battleship
 
 <p align = "right">(<a href = "#readme-top">back to top</a>)</p>
